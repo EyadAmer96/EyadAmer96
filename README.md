@@ -30,7 +30,7 @@ As a dedicated Junior DevOps Engineer at Landa Digital Printing, I bring a blend
 
 ### 📫 How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/eyad-amer/](#)
+- LinkedIn: https://www.linkedin.com/in/eyad-amer/
 - Email: eyadaam.1996@gmail.com
 
 ### 💼 Professional Experience
@@ -43,7 +43,7 @@ At **Landa Digital Printing**, my role involves:
 
 ### ✍️ Blog & Writing
 
-I occasionally share insights and tips from my journey in DevOps on my blog. Topics range from Azure cloud services, automation scripts, to the broader DevOps ecosystem. Visit my blog here: [Your Blog URL](#)
+I occasionally share insights and tips from my journey in DevOps on my blog. Topics range from Azure cloud services, and automation scripts, to the broader DevOps ecosystem. Visit my blog here: [Your Blog URL](#)
 
 ---
 
